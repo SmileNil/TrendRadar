@@ -1,13 +1,53 @@
 DeepSeek
 模型
 
+英伟达
+NVIDIA
+GPU
+黄仁勋
+
+ai
+算力
+!gai
+人工智能
+
+chatgpt
+openai
+sora
+
+claude
+Anthropic
+
+Lolita
+上新
+再贩
+汉服
+jk
+lo
+
+
+AMD
+
+AWS
+
+
+芯片
+光刻机
+
+机器人
+
+科技
+
+谷歌
+google
+gemini
+deepmind
+
 华为
 鸿蒙
 HarmonyOS
 任正非
 
-智元
-灵犀
 
 黑神话
 冯骥
@@ -23,46 +63,10 @@ HarmonyOS
 刘慈欣
 
 
-字节
-
-英伟达
-NVIDIA
-GPU
-黄仁勋
-
-AMD
-
-AWS
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-ai
-算力
-!gai
-人工智能
-
-
-机器人
-
-
 美国
 日本
 韩国
 
-芯片
-光刻机
-
-科技
 
 核能
 
@@ -72,10 +76,3 @@ ai
 宇宙
 飞船
 航空
-
-Lolita
-上新
-再贩
-汉服
-jk
-lo
